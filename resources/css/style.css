@@ -29,5 +29,8 @@ header{
 
 nav {
   padding: 40px;
-  align-items: center;
+}
+li {
+  display: inline;
+  margin: 20px;
 }
