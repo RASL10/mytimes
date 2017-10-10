@@ -10,6 +10,25 @@ header{
   height: 80px;
   border-bottom: 1px solid black;
 }
+
+body{
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
+
+div {
+  display: block;
+}
+
+nav {
+  padding: 40px;
+}
+li {
+  display: inline-flex;
+  margin: 20px;
+}
+
 .logo {
   color: aquamarine;
   display: flex;
@@ -23,15 +42,26 @@ header{
    margin-right: 12px;
 }
 
-.a {
-  color: black;
+.content {
+  display: flex;
+  width: 1232px;
+  padding-top: 116px;
+  margin: 0 auto 78px auto;
 }
 
-nav {
-  padding: 40px;
+.column.large {
+  width: 630px;
 }
-li {
-  display: inline-flex;
-  margin: 20px;
-  flex-wrap: nowrap;
+
+.column {
+  display: flex;
+  flex-direction: column;
+  margin-right: 32px;
+}
+.lead-story{
+
+}
+
+.lead-story.image-content{
+  background-image: url("../images/img-story-main.png")
 }
