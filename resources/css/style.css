@@ -31,7 +31,10 @@ nav {
   padding: 40px;
 }
 li {
-  display: inline;
+  display: inline-flex;
   margin: 20px;
   flex-wrap: nowrap;
+}
+min-width {
+  overflow-x: auto;
 }
