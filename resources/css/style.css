@@ -33,5 +33,5 @@ nav {
 li {
   display: inline;
   margin: 20px;
-  display: inline-flex;
+  flex-wrap: nowrap;
 }
