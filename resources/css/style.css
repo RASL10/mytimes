@@ -29,6 +29,5 @@ header{
 
 nav {
   padding-right: 40px;
-  display: block;
-  justify-content: space-between;
+  display: inline;
 }
