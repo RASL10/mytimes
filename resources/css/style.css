@@ -37,3 +37,7 @@ li {
    height: 60px;
    margin-right: 12px;
 }
+.content {
+  position: relative;
+  top: 80px;
+}
