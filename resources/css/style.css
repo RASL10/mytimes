@@ -16,7 +16,6 @@ body{
   font-family: Georgia;
   font-size: 17px;
   color: black;
-  z-index: 2;
 }
 
 div {
@@ -49,6 +48,7 @@ li {
   width: 1232px;
   padding-top: 116px;
   margin: 0 auto 78px auto;
+  z-index: 2;
 }
 
 .column.large {
