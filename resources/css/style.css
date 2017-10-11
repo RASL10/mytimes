@@ -21,7 +21,7 @@ body{
 nav {
   padding: 40px;
 }
-li {
+header li {
   display: inline-flex;
   margin: 20px;
 }
@@ -137,7 +137,6 @@ li {
 
 .bite li {
   padding-left: 11px;
-  margin: 0;
   }
 
 footer {
@@ -151,5 +150,5 @@ footer {
     margin: auto;
     font-family: Verdana;
     font-size: 12px;
-    top:
+    top: 100px;
 }
