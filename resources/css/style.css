@@ -10,6 +10,7 @@ header{
   height: 80px;
   border-bottom: 1px solid black;
   background-color: white;
+  margin-top: -8px;
 }
 
 body{
@@ -168,7 +169,7 @@ footer nav {
 }
 footer li {
   display: inline-flex;
-  margin: auto;
+  margin: 25px;
 }
 
 .btn, .btn:link, .btn:visited {
