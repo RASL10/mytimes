@@ -40,11 +40,10 @@ li {
 .content {
   display: flex;
   position: relative;
-  padding-top: 100px;
   top: 100px;
 }
 
-.lead-story.image-content{
+.lead-story .image-content {
   background-image: url("../images/img-story-main.png");
   width: 630px;
   margin-top: 0;
