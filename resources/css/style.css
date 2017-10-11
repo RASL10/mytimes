@@ -40,5 +40,9 @@ li {
 .content {
   display: flex;
   position: relative;
-  padding-top: 100px;
+  padding-top: 85px;
+}
+
+.image-content{
+  background-image: url(../images/img-story-main.png);
 }
