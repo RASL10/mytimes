@@ -9,7 +9,6 @@ header{
   width: 100%;
   height: 80px;
   border-bottom: 1px solid black;
-  top: 80px;
 }
 
 body{
@@ -48,7 +47,7 @@ li {
   width: 1232px;
   padding-top: 116px;
   margin: 0 auto 78px auto;
-  z-index: 2;
+  top: 80px;
 }
 
 .column.large {
