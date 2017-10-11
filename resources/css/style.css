@@ -169,8 +169,7 @@ footer nav {
 }
 footer li {
   display: inline-flex;
-  margin: 25px 25px 25px 25px;
-}
+  margin: 25px;
 
 .btn, .btn:link, .btn:visited {
 color: black;
