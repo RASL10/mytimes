@@ -147,10 +147,9 @@ footer {
     width: 100%;
     height: 325px;
     background-color: MediumAquamarine;
-    margin: auto;
     font-family: Verdana;
     font-size: 12px;
-    margin: 150px;
+    margin-top: 150px auto auto auto;
 }
 
 footer .title {
@@ -164,6 +163,11 @@ footer .title {
 }
 
 footer nav {
-  dislay: inline-block;
+  display: inline-block;
   padding-left: 25px;
+}
+
+.btn, .btn:link, .btn:visited {
+color: black;
+font-size: 14px;
 }
