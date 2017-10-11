@@ -51,6 +51,18 @@ li {
   text-align: left;
 }
 
+.image-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: georgia;
+  font-weight: bold;
+  margin-top: 15px;
+  font-size: 30px
+  color: white;
+  text-align: center;
+}
+
 .column.large {
   width: 630px;
 }
