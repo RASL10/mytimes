@@ -74,6 +74,28 @@ li {
   margin-right: 32px;
 }
 
+.fall-cancelled {
+  background-image: url("../images/img-story-2.png");
+}
+
+.pop-culture {
+  background-image: url("../images/img-story-3.png");
+
+}
+
 .narrative {
   margin-top: 16px;
+}
+
+.stories {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 17px;
+
+}
+
+.story {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
 }
