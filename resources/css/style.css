@@ -41,5 +41,5 @@ li {
   display: flex;
   position: relative;
   top: 100px;
-  
+  padding-top: 100px;
 }
