@@ -38,6 +38,7 @@ li {
    margin-right: 12px;
 }
 .content {
+  display: flex;
   position: relative;
   top: 80px;
 }
