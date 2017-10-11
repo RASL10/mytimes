@@ -94,6 +94,10 @@ li {
 
 }
 
+.stories .text-content{
+  height: 250px;
+}
+
 .story {
   display: flex;
   width: 300px;
