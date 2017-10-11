@@ -43,7 +43,7 @@ li {
   width: 1232px;
   padding-top: 116px;
   margin: 0 auto 78px auto;
-  position: relative;
+  position: absolute;
   top: 80px;
 }
 
